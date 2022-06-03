@@ -1,6 +1,7 @@
 # Game_1.0.0
 
-This is the repository for our game. 
+This is the version control repository - current version 1.0.0 
+Date: Jun 2, 2022
 
 
 Tong Wu, Haotian Yan, Yijie Li, Kelvin Zheng
